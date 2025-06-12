@@ -1,0 +1,11 @@
+# Ignore your local config file
+local_config.py
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
